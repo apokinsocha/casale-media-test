@@ -1,0 +1,6 @@
+make sure to have django installed (python 2.7)
+
+to run report script:
+python manage.py report
+
+the main script code is located in "models.py" of the counter application
